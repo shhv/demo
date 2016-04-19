@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<p> testting </p>
+<p> Working on Tomcat</p>
 </body>
 </html>
