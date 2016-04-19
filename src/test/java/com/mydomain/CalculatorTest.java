@@ -3,6 +3,7 @@ package com.mydomain;
 import org.junit.Assert;
 import org.junit.Test;
 
+//demo test
 public class CalculatorTest {
 
 	@Test
